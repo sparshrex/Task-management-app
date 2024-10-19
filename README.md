@@ -12,8 +12,8 @@ A simple task management application built with React that allows users to drag 
 
 - React
 
--Redux
--React draggable
+- Redux
+- React draggable
 - Tailwind CSS (for styling)
 - JavaScript (ES6+)
 
