@@ -22,7 +22,7 @@ A simple task management application built with React that allows users to drag 
 1. Clone the repository:
 
    
-   git clone -
+   git clone - https://github.com/sparshrex/Task-management-app.git
 
    cd task-management-app
 
